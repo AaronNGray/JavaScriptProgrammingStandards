@@ -1,0 +1,2 @@
+# JavaScriptProgrammingStandards
+JavaScript Programming Standards
